@@ -23,15 +23,6 @@ Sou estudante de **Sistemas de Informação na Universidade Federal de Santa Mar
 
 ---
 
-### 📊 Status do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guisdapi&show_icons=true&theme=tokyonight&include_all_commits=true" height="150em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisdapi&layout=compact&theme=tokyonight" height="150em" />
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 
 Seja para trocar uma ideia sobre projetos acadêmicos, desenvolvimento de software ou oportunidades de estágio, sinta-se à vontade para entrar em contato:
